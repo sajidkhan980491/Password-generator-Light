@@ -1,0 +1,83 @@
+body {
+
+  background-color: #ECFDF5;
+  font-family: "Karla", sans-serif;
+  width: 550px;
+  
+ 
+ 
+  
+
+
+}
+
+.header-1 {
+    color: #111827;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-weight: bolder;
+    margin-left: 50px;
+   
+    
+}
+
+.header-2 {
+    color: #4ADF86;
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+p {
+        margin-top: 0px;
+        color: #111827;
+        margin-left: 50px;
+   
+}
+
+
+button {
+    background-color: #10B981;
+    color: white;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 10px 0;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+hr{
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color:  #10B981;
+    display: block;
+    border:1px solid #273549;
+    height: 1px;
+    border: 0;
+    padding: 0;
+   
+}
+
+
+div {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+    
+}
+
+
+.password {
+    width: 150px;
+    height: 15px;
+    background-color:#273549;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: #10B981;
+    
+    
+}
